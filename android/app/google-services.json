@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315141547758",
+    "project_id": "hobi-d3bdf",
+    "storage_bucket": "hobi-d3bdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315141547758:android:c0b998dfa49a73191d75ff",
+        "android_client_info": {
+          "package_name": "com.HOBI.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhdRpfAdWbXgGsV5sxyyUD-5KpiiADouM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
